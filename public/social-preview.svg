@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Amitasha Anand Verma — AI/ML and Generative AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220" />
+      <stop offset="1" stop-color="#111a33" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f7cff" />
+      <stop offset="1" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect x="0" y="0" width="1200" height="8" fill="url(#accent)" />
+  <circle cx="1040" cy="150" r="220" fill="url(#accent)" opacity="0.12" />
+  <text x="80" y="250" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" fill="#ffffff">Amitasha Anand Verma</text>
+  <text x="80" y="330" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="600" fill="#9db2ff">AI/ML &amp; Generative AI Engineer</text>
+  <text x="80" y="400" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="400" fill="#c7d0e0">Practical, production-focused AI systems</text>
+  <text x="80" y="450" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="400" fill="#8a97ad">Chennai, India</text>
+</svg>
